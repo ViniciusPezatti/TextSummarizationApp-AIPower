@@ -41,3 +41,4 @@ chain = load_summarize_chain(llm=llm, chain_type="stuff")
 summary = chain.invoke(docs) # Executa a cadeia de resumo dos textos]
 
 print(summary['output_text']) # Exibe o resumo do texto
+
