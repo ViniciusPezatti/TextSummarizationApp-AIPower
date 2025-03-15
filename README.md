@@ -85,7 +85,7 @@ O resultado final é impresso no console.
 🔹 1. Clonar o repositório
 
 git clone https://github.com/ViniciusPezatti/TextSummarizationApp-AIPower.git
-cd SEU_REPOSITORIO
+cd TextSummarizationApp-AIPower
 
 🔹 2. Criar e ativar um ambiente virtual (venv)
 
@@ -129,5 +129,5 @@ Este projeto está licenciado sob a MIT License. Sinta-se à vontade para utiliz
 
 💡 Autor
 
-Desenvolvido por SEU NOME. Se tiver dúvidas ou sugestões, sinta-se à vontade para contribuir!
+Desenvolvido por Vinicius Pezatti Alves. Se tiver dúvidas ou sugestões, sinta-se à vontade para contribuir!
 
